@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 10-20.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.40879in" height="8.40879in"
+     viewBox="0 0 605.433 605.433" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#595959;stroke-width:6}
+		.st2 {stroke:#595959;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st3 {fill:none;stroke:#595959;stroke-width:3}
+		.st4 {stroke:#595959;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape2-1" v:mID="2" v:groupContext="shape" transform="translate(21,-21)">
+			<title>圆形</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 323.72 A281.717 281.717 0 1 1 563.43 323.72 A281.717 281.717 0 1 1 0 323.72 Z" class="st1"/>
+		</g>
+		<g id="shape3-3" v:mID="3" v:groupContext="shape" v:layerMember="0" transform="translate(21,-295.63)">
+			<title>动态连接线</title>
+			<path d="M0 598.35 L279.35 598.35 A2.3622 2.3622 0 1 1 284.08 598.35 L563.43 598.35" class="st2"/>
+		</g>
+		<g id="shape4-6" v:mID="4" v:groupContext="shape" transform="translate(63.041,-63.041)">
+			<title>圆形.4</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 365.76 A239.676 239.676 0 0 1 479.35 365.76 A239.676 239.676 0 0 1 0 365.76 Z" class="st3"/>
+		</g>
+		<g id="shape6-8" v:mID="6" v:groupContext="shape" v:layerMember="0" transform="translate(295.63,-584.433)">
+			<title>动态连接线.6</title>
+			<path d="M7.09 605.43 L7.09 1168.87" class="st2"/>
+		</g>
+		<g id="group1010-11" transform="translate(572.598,-221.102)" v:mID="1010" v:groupContext="group">
+			<title>工作表.1010</title>
+			<g id="shape1008-12" v:mID="1008" v:groupContext="shape"
+					transform="translate(-547.49,727.772) rotate(67.3378) scale(1,-1)">
+				<title>工作表.1008</title>
+				<path d="M0 605.43 L51.24 605.43" class="st4"/>
+			</g>
+			<g id="shape1009-15" v:mID="1009" v:groupContext="shape"
+					transform="translate(544.489,870.162) rotate(-64.0711) scale(1,-1)">
+				<title>工作表.1009</title>
+				<path d="M0 605.43 L70.77 605.43" class="st4"/>
+			</g>
+		</g>
+		<g id="shape1012-18" v:mID="1012" v:groupContext="shape" transform="translate(590.341,487.662) rotate(110.16)">
+			<title>工作表.1012</title>
+			<path d="M0 605.43 L50.85 605.43" class="st4"/>
+		</g>
+		<g id="shape1013-21" v:mID="1013" v:groupContext="shape" transform="translate(-509.069,655.11) rotate(-115.929)">
+			<title>工作表.1013</title>
+			<path d="M0 605.43 L70.77 605.43" class="st4"/>
+		</g>
+		<g id="shape1004-24" v:mID="1004" v:groupContext="shape" transform="translate(13.4979,-532.161) rotate(-22.6222)">
+			<title>工作表.1004</title>
+			<path d="M0 605.43 L61.4 605.43" class="st4"/>
+		</g>
+		<g id="shape1005-27" v:mID="1005" v:groupContext="shape" transform="translate(526.064,-559.723) rotate(21.622)">
+			<title>工作表.1005</title>
+			<path d="M0 605.43 L61.54 605.43" class="st4"/>
+		</g>
+	</g>
+</svg>
